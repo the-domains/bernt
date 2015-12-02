@@ -1,6 +1,6 @@
 name: Bernt
 favicon: null
-layout_spectrum: 0.09736839518882334
+layout_spectrum: 0.06152
 typography_spectrum: 0.36382
 title: Bernt Blankholm
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6697cc'
     - '#ef7031'
   brandStrength: 0.5
-  lightness: 0.7760292771272361
-  saturation: 0.15624669380486012
-  rhythmicContrast: 0.09379930538125336
+  lightness: 0.75
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
