@@ -1,0 +1,28 @@
+name: Bernt
+favicon: null
+layout_spectrum: 0.09736839518882334
+typography_spectrum: 0.345437916694209
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.04152360721491277
+  lightness: 0.7760292771272361
+  saturation: 0.15624669380486012
+  rhythmicContrast: 0.09379930538125336
+purpose: []
